@@ -16,7 +16,7 @@
   "dependencies": {
     "diagnostics": "~1.1.0",
     "extract-github": "1.0.x",
-    "mana": "0.1.x",
+    "mana": "~0.1.41",
     "unwrapper": "^1.1.0"
   },
   "devDependencies": {
